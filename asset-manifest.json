@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.9318b63f.css",
+    "main.js": "/react-portfolio/static/js/main.9fc68cfd.js",
+    "static/media/Montserrat-Regular.ttf": "/react-portfolio/static/media/Montserrat-Regular.3bc90003d4868fece872.ttf",
+    "static/media/Poppins-Regular.ttf": "/react-portfolio/static/media/Poppins-Regular.2fcf7e1da8fa7f537533.ttf",
+    "static/media/design.jpg": "/react-portfolio/static/media/design.36b7c8a3a4548e15352e.jpg",
+    "static/media/Lato-Regular.ttf": "/react-portfolio/static/media/Lato-Regular.cf929b5168a4fa06ce27.ttf",
+    "static/media/Sno.png": "/react-portfolio/static/media/Sno.d8698aebfc7ed770cad6.png",
+    "static/media/address.png": "/react-portfolio/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/react-portfolio/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/service2.png": "/react-portfolio/static/media/service2.8745993a08d5d3063f06.png",
+    "static/media/service4.png": "/react-portfolio/static/media/service4.0015a2a9a96557cf87e9.png",
+    "static/media/sun.png": "/react-portfolio/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/service3.png": "/react-portfolio/static/media/service3.c4307027dec83c429698.png",
+    "static/media/phone.png": "/react-portfolio/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/react-portfolio/static/media/moon.3bea3d398a25611d421b.png",
+    "static/media/service1.png": "/react-portfolio/static/media/service1.cd187bc3a384981b4f6e.png",
+    "static/media/service5.png": "/react-portfolio/static/media/service5.2ab81384d62f20e57d06.png",
+    "static/media/service6.png": "/react-portfolio/static/media/service6.30d0e2cc71337e8d2af6.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.9318b63f.css.map": "/react-portfolio/static/css/main.9318b63f.css.map",
+    "main.9fc68cfd.js.map": "/react-portfolio/static/js/main.9fc68cfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9318b63f.css",
+    "static/js/main.9fc68cfd.js"
+  ]
+}
